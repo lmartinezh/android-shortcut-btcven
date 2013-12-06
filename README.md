@@ -1,7 +1,7 @@
-Bitcoin Venezuela Web Shortcut for Android
+BTCVEN Web Shortcut for Android
 ==========================================
 
-Bookmark of the Web Site.
+Bookmark of the Web Site http://www.bitcoinvenezuela.com/
 
 
 License
@@ -31,8 +31,8 @@ Building
 ========
 
 **On Windows**
-Get the Android SDK http://developer.android.com/sdk/index.html
-Get the Apache Ant™ http://ant.apache.org/bindownload.cgi
+Get the Android SDK http://developer.android.com/sdk/index.html <br/>
+Get the Apache Ant™ http://ant.apache.org/bindownload.cgi <br/>
 Get the GitHub http://windows.github.com/
 
 For debug:

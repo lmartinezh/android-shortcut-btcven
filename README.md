@@ -65,3 +65,6 @@ For make a keystore:
 Generando par de claves RSA de 2.048 bits para certificado autofirmado (SHA256withRSA) con una validez de 10.000 días para: CN=Alexander Salas, OU=btcven, O=Bitcoin Venezuela, L=Valencia, ST=Carabobo, C=VE
 
 ```
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/btcven/android-shortcut-btcven/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
